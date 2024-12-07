@@ -1,11 +1,4 @@
 ### Hi there 👋
 
-<!--
-**Acidicts/acidicts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on build my coding skills.
-- 🌱 I’m currently learning game dev.
-- 🤔 I’m looking for help with 3D python game dev.
--->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=acidicts&show_icons=true&locale=en&layout=compact" alt="acidicts" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=acidicts&show_icons=true&locale=en" alt="acidicts" /></p>

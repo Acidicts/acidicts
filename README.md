@@ -4,5 +4,5 @@
 
 <div style="display:flex; flex-direction:row">
   <p><img style="left:0;" width=45% src="https://github-readme-stats.hackclub.dev/api/wakatime?username=810&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=default" alt="acidicts" /></p>
-  <p>&nbsp;<img style="right:0;" width="45% src="https://github-readme-stats.vercel.app/api?username=acidicts&show_icons=true&locale=en" alt="acidicts" /></p>
+  <p><img style="right:0;" width="45% src="https://github-readme-stats.vercel.app/api?username=acidicts&show_icons=true&locale=en" alt="acidicts" /></p>
 </div>
